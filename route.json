@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "d2a470fe1ca9b06b08f0b02e",
   "schema": 1,
-  "signature": "06085b966a84874790857e8ba4c690fe78face5174977459a74223ad8388d2de",
-  "updated_at": "2026-08-02T22:26:46Z",
-  "url": "https://drum-characterization-beans-border.trycloudflare.com"
+  "signature": "285f737fdcf506d1412d0a8b194e1c4ce2b66f4ec0d66e31ecf53f42125307b0",
+  "updated_at": "2026-08-02T22:34:49Z",
+  "url": ""
 }
