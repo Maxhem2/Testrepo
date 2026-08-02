@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "3952bf203dc750b512c5c5a1",
   "schema": 1,
-  "signature": "7f5f0a3c2da08bf8b609e80f8c0f03cd52f260ae1c386838f5118575ab9d040a",
-  "updated_at": "2026-08-02T20:22:57Z",
-  "url": "https://ruby-sofa-environments-sally.trycloudflare.com"
+  "signature": "07b10719e75660c7ca594f4b02f654a41fcdd815069f1830da49d8265864e13c",
+  "updated_at": "2026-08-02T20:28:38Z",
+  "url": ""
 }
