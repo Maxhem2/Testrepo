@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "f9902086ddd179edb691c2ae",
   "schema": 1,
-  "signature": "8f89248af3e7a41cc3615ac3a1363c774aaacbf60ee2cd13131582958e550528",
-  "updated_at": "2026-08-02T17:24:13Z",
-  "url": "https://enjoying-metadata-utility-get.trycloudflare.com"
+  "signature": "13fbf0c2060e684857d8a949999bdbf14b48ce3473e7d02eb916829a33382cb3",
+  "updated_at": "2026-08-02T17:45:09Z",
+  "url": ""
 }
