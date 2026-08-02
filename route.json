@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "eb77c612ab473aa8ca0905e8",
   "schema": 1,
-  "signature": "5b9b5ec9740f8697109739b41b7c7fa3e436b56839ebc27f51f88c4299e2ed6b",
-  "updated_at": "2026-08-02T19:48:56Z",
-  "url": "https://revised-quiz-moms-kidney.trycloudflare.com"
+  "signature": "89c8c1c40d5eada534341a05d07e344df213afd10107f1a6cfb257a8e1acb79c",
+  "updated_at": "2026-08-02T19:51:04Z",
+  "url": ""
 }
