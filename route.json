@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "dba9b7847193ee0eaa7521fc",
   "schema": 1,
-  "signature": "aadf44402e6c07af86ec73a3e655a5bc9e349f8912bc82207e74a4d7f94e710c",
-  "updated_at": "2026-08-02T23:27:40Z",
-  "url": "https://humor-reid-restore-surveillance.trycloudflare.com"
+  "signature": "a48a49b487986f13846e8bf516238bfe41cb64a2ea4d2c0990d5b184a596ccb0",
+  "updated_at": "2026-08-02T23:35:44Z",
+  "url": ""
 }
