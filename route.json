@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "84fb139a6b4d3d0be059a5a4",
   "schema": 1,
-  "signature": "1d869d445c464d265af1386e15cc7086a1d5606504c0f579c3cbcbd3f6167ba7",
-  "updated_at": "2026-08-02T18:55:41Z",
-  "url": "https://languages-currency-deeper-rose.trycloudflare.com"
+  "signature": "1876dd52f76f8036f33997af18e56d933494716b69f996b4624cadc0de80d89f",
+  "updated_at": "2026-08-02T19:00:08Z",
+  "url": ""
 }
