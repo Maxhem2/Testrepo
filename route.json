@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "key_id": "72a64c95b6ff0c6d",
-  "route_id": "d2a470fe1ca9b06b08f0b02e",
+  "route_id": "a526d5a11b269bb7d55ef782",
   "schema": 1,
-  "signature": "285f737fdcf506d1412d0a8b194e1c4ce2b66f4ec0d66e31ecf53f42125307b0",
-  "updated_at": "2026-08-02T22:34:49Z",
-  "url": ""
+  "signature": "17413e5c89e8622e4f3e9fc51c1eeb41e865596b0134e26ab29deda7d8b09d4c",
+  "updated_at": "2026-08-02T23:03:35Z",
+  "url": "https://deer-specially-requires-treasurer.trycloudflare.com"
 }
