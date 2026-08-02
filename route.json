@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "81137b741d90d959f80def0c",
   "schema": 1,
-  "signature": "089e537d916da94bd77716e678cffb5bac9400f8bbd5f3d869e5deea3ea818ea",
-  "updated_at": "2026-08-02T19:20:14Z",
-  "url": "https://patricia-industrial-encourage-robin.trycloudflare.com"
+  "signature": "c35c117c6e755bd4d97a6341aa92b17e6d0ac128949c3ced8f718c331fa5438d",
+  "updated_at": "2026-08-02T19:22:53Z",
+  "url": ""
 }
