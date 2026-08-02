@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "a4a016b44dfde062f6c108fc",
   "schema": 1,
-  "signature": "1f9c292c4ded066bfa1dc854f8f30b137a33149d04a7d7721624744df43ed067",
-  "updated_at": "2026-08-02T23:24:44Z",
-  "url": "https://fun-childrens-letter-journalism.trycloudflare.com"
+  "signature": "d9f026780c36079712f7d82ccd45e97855eb1ff507d337652e49c64a1d1a4a98",
+  "updated_at": "2026-08-02T23:27:28Z",
+  "url": ""
 }
