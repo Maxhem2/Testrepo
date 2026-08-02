@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "badd687d5607d0e226b33242",
   "schema": 1,
-  "signature": "8b8a517f3eef507099084037177c5a612eb66f1b1cf9de5846d84949222ae1da",
-  "updated_at": "2026-08-02T19:33:20Z",
-  "url": "https://devel-terrain-airplane-origins.trycloudflare.com"
+  "signature": "9a9efd9eb3ec9420f4599f24c5883e12b5b3d637b28d087f9aceb7d8de5abb65",
+  "updated_at": "2026-08-02T19:41:15Z",
+  "url": ""
 }
