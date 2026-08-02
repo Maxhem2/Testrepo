@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "2f22c8edc9da51cca0803923",
   "schema": 1,
-  "signature": "75e316d44f23918b8fcaca0b87d975dc0dd4fe2cbdf61addbca8ae1011d61d8a",
-  "updated_at": "2026-08-02T20:14:17Z",
-  "url": "https://choir-lemon-ports-bodies.trycloudflare.com"
+  "signature": "9d0400e6df6155e5120226c98f437f0d444adec05f4dbc826b10a47b163358b8",
+  "updated_at": "2026-08-02T20:18:04Z",
+  "url": ""
 }
