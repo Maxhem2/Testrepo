@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "8f3435cfd3ce41e6e9fd71e1",
   "schema": 1,
-  "signature": "046bd5e0a3c02f537aa48c59ec012d6d63e756956b9cca3004c8c9593709856f",
-  "updated_at": "2026-08-02T18:37:37Z",
-  "url": "https://lets-grain-dolls-catalog.trycloudflare.com"
+  "signature": "9c99a51dd892bc0f61197a8307af4c11935db86b8d97bdd511514d8da15f2714",
+  "updated_at": "2026-08-02T18:42:36Z",
+  "url": ""
 }
