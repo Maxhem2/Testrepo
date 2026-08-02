@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "key_id": "72a64c95b6ff0c6d",
-  "route_id": "3952bf203dc750b512c5c5a1",
+  "route_id": "75ab5ad512f2ac83eacabdf5",
   "schema": 1,
-  "signature": "07b10719e75660c7ca594f4b02f654a41fcdd815069f1830da49d8265864e13c",
-  "updated_at": "2026-08-02T20:28:38Z",
-  "url": ""
+  "signature": "969e76b35f563d442ce922b917ddf20bcc12d7bc9dcf3b00b3cc00b37f1264c5",
+  "updated_at": "2026-08-02T20:51:03Z",
+  "url": "https://smaller-household-reef-raises.trycloudflare.com"
 }
