@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "key_id": "72a64c95b6ff0c6d",
-  "route_id": "8f3435cfd3ce41e6e9fd71e1",
+  "route_id": "0104240ac065271af829edd7",
   "schema": 1,
-  "signature": "9c99a51dd892bc0f61197a8307af4c11935db86b8d97bdd511514d8da15f2714",
-  "updated_at": "2026-08-02T18:42:36Z",
-  "url": ""
+  "signature": "89e6cc71bc28835ae64f4413e5639ab43b185eaa09d4dd0402bb215d8062f5c5",
+  "updated_at": "2026-08-02T18:44:18Z",
+  "url": "https://california-annually-deputy-mainland.trycloudflare.com"
 }
