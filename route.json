@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "key_id": "72a64c95b6ff0c6d",
-  "route_id": "dba9b7847193ee0eaa7521fc",
+  "route_id": "f0b3ff0b410cb586f8189e5c",
   "schema": 1,
-  "signature": "a48a49b487986f13846e8bf516238bfe41cb64a2ea4d2c0990d5b184a596ccb0",
-  "updated_at": "2026-08-02T23:35:44Z",
-  "url": ""
+  "signature": "9206e899be3ee830e567fb65a3b0aa5cbe1577815fe59b0d93ae768fe39611e5",
+  "updated_at": "2026-08-02T23:45:40Z",
+  "url": "https://firewire-madrid-reason-season.trycloudflare.com"
 }
