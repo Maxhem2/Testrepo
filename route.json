@@ -1,9 +1,9 @@
 {
-  "active": true,
+  "active": false,
   "key_id": "72a64c95b6ff0c6d",
   "route_id": "93ef6b46d00faa232adf8736",
   "schema": 1,
-  "signature": "4c8b93d0b080b00836a2e523d16fdda586a36a54518698a562ef9dafa4c1ad39",
-  "updated_at": "2026-08-02T20:10:41Z",
-  "url": "https://bernard-nasa-use-flame.trycloudflare.com"
+  "signature": "ca6ff524602c7b1a158c8249bb3eaf0cbfb723c93b8c64e18cee5a61ec857ba0",
+  "updated_at": "2026-08-02T20:14:07Z",
+  "url": ""
 }
