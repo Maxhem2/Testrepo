@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "key_id": "72a64c95b6ff0c6d",
-  "route_id": "84fb139a6b4d3d0be059a5a4",
+  "route_id": "ed7f8539a14aaea05265cd5a",
   "schema": 1,
-  "signature": "1876dd52f76f8036f33997af18e56d933494716b69f996b4624cadc0de80d89f",
-  "updated_at": "2026-08-02T19:00:08Z",
-  "url": ""
+  "signature": "ef87d83c0297018785d52ffa6d6c3525b3cdd0ab5ae755183fcc12f9baa9354b",
+  "updated_at": "2026-08-02T19:05:54Z",
+  "url": "https://nextel-entertainment-surrounding-beam.trycloudflare.com"
 }
