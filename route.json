@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "key_id": "72a64c95b6ff0c6d",
-  "route_id": "f9902086ddd179edb691c2ae",
+  "route_id": "f08257c5dea69390c3e69221",
   "schema": 1,
-  "signature": "13fbf0c2060e684857d8a949999bdbf14b48ce3473e7d02eb916829a33382cb3",
-  "updated_at": "2026-08-02T17:45:09Z",
-  "url": ""
+  "signature": "ee99081a22f9dd0b9205fd35090b49cf63284dbe5c60267153901981048a71cd",
+  "updated_at": "2026-08-02T18:21:57Z",
+  "url": "https://auctions-raise-labs-craft.trycloudflare.com"
 }
