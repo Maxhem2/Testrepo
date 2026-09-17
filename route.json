@@ -1,9 +1,9 @@
 {
-  "active": false,
+  "active": true,
   "key_id": "72a64c95b6ff0c6d",
-  "route_id": "f0b3ff0b410cb586f8189e5c",
+  "route_id": "52daa012459c11b4424e3def",
   "schema": 1,
-  "signature": "487e7b6e202403ba987952669b393e0849ee1c363916ec2cfdbcc1eef5dffc3e",
-  "updated_at": "2026-08-03T00:05:17Z",
-  "url": ""
+  "signature": "b0977ef9505e45879229d6a9206f4d6a8c7d68663c50437e189815796e968819",
+  "updated_at": "2026-09-17T17:12:32Z",
+  "url": "https://paris-reached-northeast-urban.trycloudflare.com"
 }
